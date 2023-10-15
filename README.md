@@ -1,6 +1,6 @@
 # Forage Internship Tasks
 
-![Forage Logo](https://your-image-url.com/forage_logo.png)
+![Forage Logo](https://www.theforage.com/blog/wp-content/uploads/2023/04/Navy-Stacked-Logo.jpg)
 
 Welcome to my "Forage Internship Tasks" repository! 🚀
 
